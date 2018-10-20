@@ -1,0 +1,8 @@
+APRESENTAÇÃO 1
+
+ASSUNTO: SEGURANÇA DA INFORMAÇÃO
+
+
+O objetivo da apresentação foi mostrar a possibilidade de falha de segurança em sistemas, neste caso o exemplo foi a rede social Facebook, onde o site beta.facebook permitia a possibilidade ilimitada de tentitavas de recuperação de codigo de acesso para recuperação de senha, utilizado programas de bruteforce.
+
+Também foi mostrado a diferença entre hackers e crackers, onde os hackers são pessoas chamadas "do bem", quando se tratam de interceptação de dados e manipulação fraldulenta de informações. Já os crackers interceptam os dados, roubando informações e causando grandes estragos.
