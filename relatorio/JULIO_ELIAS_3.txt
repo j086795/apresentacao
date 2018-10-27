@@ -1,0 +1,9 @@
+APRESENTAÇÃO 3
+
+ASSUNTO: SOFTWARES MALICIOSOS
+
+O objetivo da apresentação foi mostrar os tipos de malwares, qual o método de invasão e dano de cada um no sistema. Neste caso, o windows é o maior sistema alvo dos malwares devido ao grande número de usuários que utilizam a plataforma.
+
+Foi mostrado também os tipos de proteção e dicas de como não ser potencialmente infectado com um malware, assim como falhas que acontecem em processadores atuais.
+
+
