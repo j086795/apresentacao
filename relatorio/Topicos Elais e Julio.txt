@@ -1,0 +1,32 @@
+Elias -  18462       Julio - Cesar Teixeira - 18472
+
+
+Dupla:
+
+Thiago Henrique      Jefferson de Oliveira
+
+
+Arduíno
+
+
+O arduíno foi feito na italia em 2005, o objetivo era elaborar  um dispositivo barato e funcional.
+O arduíno é um plataforma opensource.
+O arduino tem aplicações ilimitadas, é possivel fazer qualquer coisa com ele,
+o hardware dele possui um microcontrolador, conector usb, conector de alimentação e botão de reset.
+
+
+IDE Arduíno: 
+
+Os sensores extrem informações o mundo físico e converte em energia e dados.
+
+
+
+
+
+
+
+
+
+
+
+

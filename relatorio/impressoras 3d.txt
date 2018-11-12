@@ -1,0 +1,7 @@
+IMPRESSORAS 3D
+
+O objetivo da apresentação foi mostrar os impactos que impressoras 3D vem causando nos dias de hoje. Foi mostrado como ela surgiu, os variados tipos de impressoras que existem, sendo na área de engenharia na construção de casas, na área da mecânica, assim como também é utilizada na criação de novos materiais.
+
+Foi mostrado também o processo de  funcionamento da impressora 3D, onde tudo começa através de um projeto em softwares específicos, depois o tipo de material a ser utilizado e por fim as peças que compõem a impressora.
+
+Hoje em dia também já é possível criar orgãos através de impressoras 3D, tipos de alimentos ou até mesmo materiais que possam reparar danos irreversíveis nos seres(bico do tucano).
